@@ -1,16 +1,13 @@
-It's me, Tierney!
+This is my nerdy business card 🤓
 
 # Usage
 
 ## npm
+
 ```
-npx bitandbang
+npx rebelchris
 ```
 
-## GitHub Package Registry
-Assuming you have the GitHub registry set up, you can use via npx:
-```
-npx @bnb/card
-```
+## Credit
 
-Not including how to use it globally because I'm not sure why you'd want this as a global command. That'd be creepy.
+Forked from [@bitandbang](https://github.com/bnb/bitandbang)
