@@ -1,11 +1,13 @@
+<!-- markdownlint-disable MD041 -->
+
 This is my nerdy business card 🤓
 
 # Usage
 
 ## npm
 
-```
-npx rebelchris
+```text
+npx ruthcmoratagil
 ```
 
 ## Credit

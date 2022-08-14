@@ -1,40 +1,40 @@
 {
-  "name": "rebelchris",
-  "version": "1.0.0",
-  "description": "Chris Bongers personal business card",
-  "main": "/bin/card.js",
-  "bin": {
-    "rebelchris": "./bin/card.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rebelchris/businesscard.git"
-  },
-  "homepage": "https://daily-dev-tips.com",
-  "scripts": {
-    "prepublish": "npm run build",
-    "build": "node build.js",
-    "dev": "npm run build && node ./bin/card.js",
-    "lint": "standard"
-  },
-  "keywords": [
-    "card",
-    "npm",
-    "npm card",
-    "npx",
-    "npx card",
-    "business card"
-  ],
-  "author": "Chris Bongers <info@daily-dev-tips.com> (https://daily-dev-tips.com)",
-  "license": "MIT",
-  "files": [
-    "bin/card.js",
-    "bin/output"
-  ],
-  "devDependencies": {
-    "boxen": "^2.1.0",
-    "chalk": "^2.4.1",
-    "standard": "^12.0.1"
-  },
-  "dependencies": {}
+    "name": "ruthcmoratagil",
+    "version": "1.0.0",
+    "description": "Ruth C. Morata Gil's personal business card",
+    "main": "/bin/card.js",
+    "bin": {
+        "ruthcmoratagil": "./bin/card.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ruthcmoratagil/business_card.git"
+    },
+    "homepage": "https://ruthcmoratagil.dev",
+    "scripts": {
+        "prepare": "npm run build",
+        "build": "node build.js",
+        "dev": "npm run build && node ./bin/card.js",
+        "lint": "standard"
+    },
+    "keywords": [
+        "card",
+        "npm",
+        "npm card",
+        "npx",
+        "npx card",
+        "business card"
+    ],
+    "author": "Ruth C. Morata <ruth.morata@gmail.com> (http://ruthcmoratagil.dev)",
+    "license": "MIT",
+    "files": [
+        "bin/card.js",
+        "bin/output"
+    ],
+    "devDependencies": {
+        "boxen": "^2.1.0",
+        "chalk": "^2.4.1",
+        "standard": "^12.0.1"
+    },
+    "dependencies": {}
 }
