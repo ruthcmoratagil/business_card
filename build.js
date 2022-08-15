@@ -20,14 +20,14 @@ const data = {
     // handle: chalk.white('@rebelchris'),
     work: chalk.white('Junior Full Stack Developer'),
     email: chalk.hex('#feb95f')('ruth.morata@gmail.com'),
-    phone: chalk.blueBright('[+34] 646 11 66 41'),
+    phone: chalk.blue('[+34] 646 11 66 41'),
     github:
-        chalk.gray('https://github.com/') + chalk.greenBright('ruthcmoratagil'),
-    linkedin:
-        chalk.gray('https://linkedin.com/in/') +
+        chalk.white('https://github.com/') +
         chalk.greenBright('ruthcmoratagil'),
+    linkedin:
+        chalk.white('https://linkedin.com/in/') + chalk.green('ruthcmoratagil'),
     web: chalk.hex('#17bebb')('https://ruthcmoratagil.dev'),
-    npx: chalk.white.bgHex('#DA0060')('npx ruthcmoratagil'),
+    npx: chalk.white.bgHex('#DA006050')('npx ruthcmoratagil'),
     labelWork: chalk.white.bold('    Work:'),
     labelEmail: chalk.white.bold('   Email:'),
     labelPhone: chalk.white.bold('   Phone:'),
