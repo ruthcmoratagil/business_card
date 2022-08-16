@@ -23,7 +23,7 @@ const data = {
     phone: chalk.blue('[+34] 646 11 66 41'),
     github:
         chalk.white('https://github.com/') +
-        chalk.greenBright('ruthcmoratagil'),
+        chalk.green('ruthcmoratagil'),
     linkedin:
         chalk.white('https://linkedin.com/in/') + chalk.green('ruthcmoratagil'),
     web: chalk.hex('#17bebb')('https://ruthcmoratagil.dev'),
