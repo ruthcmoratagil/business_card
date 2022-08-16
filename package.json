@@ -3,12 +3,10 @@
     "version": "1.0.1",
     "description": "Ruth C. Morata Gil's personal business card",
     "main": "/bin/card.js",
-    "bin": {
-        "ruthcmoratagil": "./bin/card.js"
-    },
+    "bin": "./bin/card.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ruthcmoratagil/business_card.git"
+        "url": "https://github.com/ruthcmoratagil/business_card.git"
     },
     "homepage": "https://ruthcmoratagil.dev",
     "scripts": {
@@ -23,10 +21,12 @@
         "npm card",
         "npx",
         "npx card",
-        "business card"
+        "business card",
+        "business",
+        "terminal"
     ],
     "author": "Ruth C. Morata <ruth.morata@gmail.com> (http://ruthcmoratagil.dev)",
-    "license": "MIT",
+    "license": "SEE LICENSE IN LICENSE",
     "files": [
         "bin/card.js",
         "bin/output"
