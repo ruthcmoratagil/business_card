@@ -1,6 +1,6 @@
 {
     "name": "ruthcmoratagil",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Ruth C. Morata Gil's personal business card",
     "main": "/bin/card.js",
     "bin": {
